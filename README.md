@@ -38,7 +38,7 @@ To simulate a real-world e-commerce backend and apply practical API testing tech
 
 ## 🛠️ Tools & Technologies
 
-- [Postman](https://www.postman.com/) – API request creation & testing  
-- [Newman]([https://www.npmjs.com/package/newman](https://apistudy-9074.postman.co/workspace/Nezam-API~da5b5ab2-3b6e-4865-862f-0eac763833ab/collection/42160313-7a62890a-2954-4add-a0f6-6fceb8606e28?action=share&source=copy-link&creator=42160313)) – CLI test execution (optional)  
-- [HTML Reporter for Newman](https://www.npmjs.com/package/newman-reporter-html) – Generate interactive HTML reports 
+- [Postman] – API request creation & testing  
+- [Newman] – CLI test execution (optional)  
+- [HTML Reporter for Newman] – Generate interactive HTML reports 
 
